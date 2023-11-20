@@ -1,11 +1,11 @@
-p {
-    background-color: #ccccc;
+body {
+    background: #CCCCCC
 }
 
-body {
-    background: cccccc;
+p {
+    text-align: center;
 }
 
 em strong {
-    color: red;
+    color: #FF0000;
 }
